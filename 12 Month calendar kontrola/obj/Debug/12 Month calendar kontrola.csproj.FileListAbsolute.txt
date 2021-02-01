@@ -1,0 +1,10 @@
+C:\Users\Mato\source\repos\12 Month calendar kontrola\12 Month calendar kontrola\bin\Debug\12 Month calendar kontrola.exe.config
+C:\Users\Mato\source\repos\12 Month calendar kontrola\12 Month calendar kontrola\bin\Debug\12 Month calendar kontrola.exe
+C:\Users\Mato\source\repos\12 Month calendar kontrola\12 Month calendar kontrola\bin\Debug\12 Month calendar kontrola.pdb
+C:\Users\Mato\source\repos\12 Month calendar kontrola\12 Month calendar kontrola\obj\Debug\12 Month calendar kontrola.csprojAssemblyReference.cache
+C:\Users\Mato\source\repos\12 Month calendar kontrola\12 Month calendar kontrola\obj\Debug\_12_Month_calendar_kontrola.Form1.resources
+C:\Users\Mato\source\repos\12 Month calendar kontrola\12 Month calendar kontrola\obj\Debug\_12_Month_calendar_kontrola.Properties.Resources.resources
+C:\Users\Mato\source\repos\12 Month calendar kontrola\12 Month calendar kontrola\obj\Debug\12 Month calendar kontrola.csproj.GenerateResource.cache
+C:\Users\Mato\source\repos\12 Month calendar kontrola\12 Month calendar kontrola\obj\Debug\12 Month calendar kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Mato\source\repos\12 Month calendar kontrola\12 Month calendar kontrola\obj\Debug\12 Month calendar kontrola.exe
+C:\Users\Mato\source\repos\12 Month calendar kontrola\12 Month calendar kontrola\obj\Debug\12 Month calendar kontrola.pdb
